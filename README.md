@@ -1,3 +1,3 @@
 # Documentation de mon site GEKShop
 
-## Achirtecture de la boutique
+## Architecture de la boutique
