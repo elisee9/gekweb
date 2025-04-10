@@ -1,3 +1,4 @@
-# Documentation de mon site GEKShop
+# Un Générateur de citation
 
-## Architecture de la boutique
+## Ceci est un projet qui génère des citations avec les noms des auteurs
+### Ce projet est réaliser avec JavaScript, HTML et Bootstrap
